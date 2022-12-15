@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>/home/epouy/Bureau/N7/1A/PIM/N7/pr03.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/epouy/Bureau/N7/1A/PIM/N7/pr03.gpr</vfs_project>
+      <vfs_file>/home/epouy/Bureau/N7/1A/PIM/N7/src/routeur.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>/home/epouy/Bureau/N7/1A/PIM/N7/pr03.gpr</vfs_project>
+      <vfs_file>/home/epouy/Bureau/N7/1A/PIM/N7/src/lirefichiertxt.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 3" >
+      <vfs_project>/home/epouy/Bureau/N7/1A/PIM/N7/pr03.gpr</vfs_project>
+      <vfs_file>/home/epouy/Bureau/N7/1A/PIM/N7/src/lirefichiertxt.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
