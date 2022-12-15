@@ -1,3 +1,6 @@
+with LCA;   use LCA;
+
+
 procedure Routeur is
    
 begin
